@@ -1,7 +1,38 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  username: MyString
+  username: Le texte que vous copiez s'affichera automatiquement iciÉpinglez les morceaux de texte copiés pour qu'ils n'expirent pas après 1 heureFaites glisser des clips pour les supprimerAutopixiewps  cod.zip  downloads
+$ |25: ATTENTION
+Found a swap file by the name ".user.swp"
+             dated: Sun Aug 18 04:17:00 2019
+         file name: /data/data/com.termux/files/home/
+user
+          modified: YES
+         user name: 10156   host name: localhost
+        process ID: 6085
+While opening file "user"
+      CANNOT BE FOUND
+(1) Another program may be editing the same file.  If
+ this is the case,
+    be careful not to end up with two different insta
+nces of the same
+    file when making changes.  Quit, or continue with
+ caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r us
+er"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".u
+ser.swp"
+    to avoid this message.
+
+Swap file ".user.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete
+it, (Q)uit, (A)bort:
+
+
+
+-- More --
 
 two:
   username: MyString
